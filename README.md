@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julien7442&label=Profile%20views&color=0e75b6&style=flat" alt="julien7442" /> </p>
 
-- 🔭 I’m currently working on different projects [julienconforto.dev](julienconforto.dev)
-
 - 🌱 I’m currently learning **Frameworks**
 
 - 👨‍💻 All of my projects are available at [julienconforto.dev](julienconforto.dev)
